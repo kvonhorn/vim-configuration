@@ -1,0 +1,8 @@
+I've used pathogen to manage plugins, and git submodules to manage installations
+according to the instructions at
+http://mirnazim.org/writings/vim-plugins-i-use/
+
+In short:
+~/.vim
+git submodule add git://github.com/.../projectname.git bundle/projectname
+git submodule init && git submodule update

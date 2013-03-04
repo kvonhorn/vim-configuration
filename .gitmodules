@@ -1,0 +1,24 @@
+[submodule "bundle/delmitmate"]
+	path = bundle/delmitmate
+	url = git://github.com/Raimondi/delimitMate.git
+[submodule "bundle/closetag"]
+	path = bundle/closetag
+	url = git://github.com/docunext/closetag.vim.git
+[submodule "bundle/supertab"]
+	path = bundle/supertab
+	url = git://github.com/ervandew/supertab.git
+[submodule "bundle/tagbar"]
+	path = bundle/tagbar
+	url = git://github.com/majutsushi/tagbar.git
+[submodule "bundle/vim-surround"]
+	path = bundle/vim-surround
+	url = git://github.com/tpope/vim-surround.git
+[submodule "bundle/vim-indent-guides.git"]
+	path = bundle/vim-indent-guides.git
+	url = git://github.com/nathanaelkane/vim-indent-guides.git
+[submodule "bundle/snipmate"]
+	path = bundle/snipmate
+	url = https://github.com/msanders/snipmate.vim.git
+[submodule "bundle/minbufexpl"]
+	path = bundle/minbufexpl
+	url = https://github.com/fholgado/minibufexpl.vim.git

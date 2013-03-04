@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/kevin.vonhorn/Development/audi-functional-tests/cq/src/test/java/com/akqa/audi/test/cq'
+let g:netrw_dirhist_2='/Users/kevin.vonhorn/Development/audi-functional-tests/cq'
+let g:netrw_dirhist_3='/Users/kevin.vonhorn/Development/audi-functional-tests/cq/src/test/resources/com/akqa/audi/test/cq'
+let g:netrw_dirhist_4='/Users/kevin.vonhorn/Development/audi-functional-tests/test-utilities/src/main/java/com/akqa/audi/test/domain/cq'
+let g:netrw_dirhist_5='/Users/kevin.vonhorn/Development/audi-functional-tests/cq/src/test/java/com/akqa/audi/test/cq'
+let g:netrw_dirhist_6='/Users/kevin.vonhorn/Development/audi-functional-tests/cq'
